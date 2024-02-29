@@ -12,6 +12,7 @@ alert(message)
 alert(name)
 alert(age)
 alert('Certified mobile application development')
+alert(' PIZZA \n PIZZ \n PIZ \n PI \n P ')
 alert(email)
 alert(book)
 
